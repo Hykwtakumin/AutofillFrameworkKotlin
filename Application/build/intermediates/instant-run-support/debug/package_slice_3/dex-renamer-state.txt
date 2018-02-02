@@ -1,0 +1,4 @@
+#Fri Feb 02 11:10:51 IST 2018
+base.0=D\:\\AutofillFrameworkKotlin\\Application\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex

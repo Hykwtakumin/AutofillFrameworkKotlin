@@ -1,0 +1,244 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:1-91:12
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:1-91:12
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:1-91:12
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c26b163026b4d6967af0d6654ea019f1\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:17:1-31:12
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:1-91:12
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:1-91:12
+	package
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:18:5-52
+	android:versionName
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:20:5-30
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:17:11-69
+	android:versionCode
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:19:5-28
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+application
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:22:5-89:19
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c26b163026b4d6967af0d6654ea019f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c26b163026b4d6967af0d6654ea019f1\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:25:5-29:19
+	android:supportsRtl
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:26:9-35
+	android:label
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:25:9-41
+	android:icon
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:24:9-43
+	android:allowBackup
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:23:9-35
+	android:theme
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:27:9-53
+activity#com.example.android.autofillframework.app.MainActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:28:9-35:20
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:30:13-49
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:29:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:31:13-34:29
+action#android.intent.action.MAIN
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:32:17-69
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:32:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:33:17-77
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:33:27-74
+activity#com.example.android.autofillframework.app.StandardSignInActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:36:9-38:62
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:38:13-59
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:37:13-55
+activity#com.example.android.autofillframework.app.StandardAutoCompleteSignInActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:39:9-41:74
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:41:13-71
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:40:13-67
+activity#com.example.android.autofillframework.app.VirtualSignInActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:42:9-44:61
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:44:13-58
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:43:13-54
+activity#com.example.android.autofillframework.app.WelcomeActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:45:9-57
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:45:19-54
+activity#com.example.android.autofillframework.app.CreditCardActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:46:9-48:58
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:48:13-55
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:47:13-51
+activity#com.example.android.autofillframework.app.EmailComposeActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:49:9-51:60
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:51:13-57
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:50:13-53
+activity#com.example.android.autofillframework.app.CreditCardCompoundViewActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:52:9-54:70
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:54:13-67
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:53:13-63
+activity#com.example.android.autofillframework.multidatasetservice.settings.SettingsActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:59:9-68:20
+	android:label
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:62:13-50
+	android:exported
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:61:13-36
+	android:taskAffinity
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:63:13-53
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:60:13-74
+service#com.example.android.autofillframework.multidatasetservice.MyAutofillService
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:75:9-86:19
+	android:label
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:77:13-59
+	android:permission
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:78:13-74
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:76:13-66
+meta-data#android.autofill
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:79:13-81:64
+	android:resource
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:81:17-61
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:80:17-48
+intent-filter#android.service.autofill.AutofillService
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:83:13-85:29
+action#android.service.autofill.AutofillService
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:84:17-83
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:84:25-80
+activity#com.example.android.autofillframework.multidatasetservice.AuthActivity
+ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:88:9-70
+	android:name
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml:88:19-67
+uses-sdk
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c26b163026b4d6967af0d6654ea019f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.0.2.aar\c26b163026b4d6967af0d6654ea019f1\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:21:5-23:58
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		ADDED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+		INJECTED from D:\AutofillFrameworkKotlin\Application\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:design:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\design-26.0.1.aar\f63693ffc66dd437c4468662a9010d3c\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.0.1.aar\45a1a724908e3a711af1866d67d00e9d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:transition:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\transition-26.0.1.aar\49468b38cf79631bb94f7a960d3e80d6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-v4:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v4-26.0.1.aar\8fe6e99ed69a6a5f744b6b5e24e2727d\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:cardview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\cardview-v7-26.0.1.aar\d3ef01727f91a0038d43ec4121a16182\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-media-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-media-compat-26.0.1.aar\437929a3da2f0af8ca403ab7c24bca1f\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-fragment:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-fragment-26.0.1.aar\fe231b32764130b711572bba9f6ebfce\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-utils:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-utils-26.0.1.aar\8b7561713e37f2f4e6a4f6f12c7e75f2\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.0.1.aar\a1068f55fa13ab426440f7309c76adf6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:recyclerview-v7:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-26.0.1.aar\ff20a1b176288ca98d0d191aaf4b13bd\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-core-ui:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-core-ui-26.0.1.aar\28e4c67bcc79d8a0c6977093668e1ba4\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.0.1.aar\dd16fdb0bb6de1f77e92998a891bdcb6\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:support-compat:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-compat-26.0.1.aar\2e1f96eadd5a8a4bac2c3ad60e5df76e\AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from [com.android.support:support-v13:26.0.1] C:\Users\tchavan\.gradle\caches\transforms-1\files-1.1\support-v13-26.0.1.aar\1e6251ce1d7adfe69f50f6c4da1d4439\AndroidManifest.xml:27:13-51
